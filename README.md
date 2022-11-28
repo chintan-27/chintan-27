@@ -53,7 +53,7 @@
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a><a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
  </p>
 
-<p><img height="200" width="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=chintan-27&show_icons=true&locale=en&layout=compact" alt="chintan-27" /></p> <p>&nbsp;<img height="200" width="300" src="https://github-readme-stats.vercel.app/api?username=chintan-27&show_icons=true&locale=en" alt="chintan-27" /></p> <p><img height="200" width="300" src="https://github-readme-streak-stats.herokuapp.com/?user=chintan-27&" alt="chintan-27" /></p>
+<p><img height="200" width="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=chintan-27&show_icons=true&locale=en&layout=compact" alt="chintan-27" /> &nbsp;<img height="200" width="300" src="https://github-readme-stats.vercel.app/api?username=chintan-27&show_icons=true&locale=en" alt="chintan-27" /><img height="200" width="300" src="https://github-readme-streak-stats.herokuapp.com/?user=chintan-27&" alt="chintan-27" /></p>
 
 <!--
 **chintan-27/chintan-27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
