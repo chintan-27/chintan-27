@@ -55,7 +55,7 @@
 
 <p><img height="200" width="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=chintan-27&show_icons=true&locale=en&layout=compact" alt="chintan-27" /> &nbsp;
 
-<img height="200" width="300" src="https://github-readme-stats.vercel.app/api?username=chintan-27&show_icons=true&locale=en" alt="chintan-27" /><img height="200" width="300" src="https://github-readme-streak-stats.herokuapp.com/?user=chintan-27&" alt="chintan-27" /></p>
+<img height="200" width="300" src="https://github-readme-stats.vercel.app/api?username=chintan-27&show_icons=true&locale=en" alt="chintan-27" /> &nbsp; <img height="200" width="300" src="https://github-readme-streak-stats.herokuapp.com/?user=chintan-27&" alt="chintan-27" /></p>
 
 <!--
 **chintan-27/chintan-27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
