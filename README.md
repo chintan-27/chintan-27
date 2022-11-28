@@ -1,6 +1,6 @@
 <h1 >Hi 👋, I'm Chintan Acharya</h1>
 <h3 >AI and machine learning enthusiast.</h3>
-<img height="200" width="350" src="https://github.com/chintan-27/chintan-27/blob/main/a.gif" style="border-radius:5px"/>
+<img height="200" width="350" src="https://github.com/chintan-27/chintan-27/blob/main/a.gif" style="border-radius:5%"/>
 
 - 🔭 I’m currently working on **Image Outpainting**
 
