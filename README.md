@@ -57,6 +57,7 @@
 
 <img height="200" width="300" src="https://github-readme-stats.vercel.app/api?username=chintan-27&show_icons=true&locale=en" alt="chintan-27" /> &nbsp; <img height="200" width="300" src="https://github-readme-streak-stats.herokuapp.com/?user=chintan-27&" alt="chintan-27" /></p>
 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="ef2972a6-5485-421d-ba15-367db199dd0a" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 <!--
 **chintan-27/chintan-27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
