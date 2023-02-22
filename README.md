@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **chintan.acharya@ufl.edu**
 
-- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1pd16QngRjhbKxa-HrAQTVjs3yegtStUo/view?usp=sharing)
+- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1BeH5rZGg9lO0AzBo3WwKl7mp1cfuimI3/view?usp=sharing)
 
 - ⚡ Fun fact **I think more about coding then myself**
 
