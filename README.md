@@ -2,9 +2,9 @@
 <h3 >AI and machine learning enthusiast.</h3>
 <img height="150" width="250" src="https://github.com/chintan-27/chintan-27/blob/main/a.gif" style="border-radius:5%"/>
 
-- 🔭 I’m currently working on **Image Outpainting**
+- 🔭 I’m currently working on [Intermediate Task Transfer Learning for Sarcasm Detection](https://github.com/rsj-rishabh/CISE-6930-NLP-Ninjas)
 
-- 🌱 I’m currently learning **ThreeJS, Pytorch and Advanced Machine Learning**
+- 🌱 I’m currently learning **ThreeJS, Pytorch, NLP, and Advanced Machine Learning**
 
 - 📝 I’m working towards [My Portfolio](https://github.com/chintan-27/Probable-pancake)
 
