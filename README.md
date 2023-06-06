@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **ThreeJS, Pytorch, NLP, and Advanced Machine Learning**
 
-- 📝 I’m working towards [My Portfolio](https://github.com/chintan-27/Probable-pancake)
+- 📝 I’m working towards [My Portfolio](https://github.com/chintan-27/potential-system)
 
 - 👨‍💻 All of my projects are available at [Chintan Acharya]()
 
